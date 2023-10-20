@@ -1,2 +1,2 @@
 # Netflix-EDA
-Our analysis reveals a captivating story of Netflix's content trends, showcasing a deep appreciation for movies worldwide. While the impact of COVID-19 posed challenges to content releases, the streaming giant's diverse offerings continue to captivate global audiences. 
+Our analysis reveals a captivating story of Netflix's content trends, showcasing a deep appreciation for movies worldwide. While the impact of COVID-19 posed challenges to content releases, the streaming giant's diverse offerings continue to captivate global audiences. As Netflix continues to shape the entertainment landscape, audiences can eagerly anticipate more compelling stories and experiences in the days to come.
